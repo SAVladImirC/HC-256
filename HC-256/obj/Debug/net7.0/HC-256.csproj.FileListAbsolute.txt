@@ -1,0 +1,15 @@
+C:\Users\vace_\source\repos\HC-256\HC-256\bin\Debug\net7.0\HC-256.exe
+C:\Users\vace_\source\repos\HC-256\HC-256\bin\Debug\net7.0\HC-256.deps.json
+C:\Users\vace_\source\repos\HC-256\HC-256\bin\Debug\net7.0\HC-256.runtimeconfig.json
+C:\Users\vace_\source\repos\HC-256\HC-256\bin\Debug\net7.0\HC-256.dll
+C:\Users\vace_\source\repos\HC-256\HC-256\bin\Debug\net7.0\HC-256.pdb
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\HC-256.csproj.AssemblyReference.cache
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\HC-256.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\HC-256.AssemblyInfoInputs.cache
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\HC-256.AssemblyInfo.cs
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\HC-256.csproj.CoreCompileInputs.cache
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\HC-256.dll
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\refint\HC-256.dll
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\HC-256.pdb
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\HC-256.genruntimeconfig.cache
+C:\Users\vace_\source\repos\HC-256\HC-256\obj\Debug\net7.0\ref\HC-256.dll

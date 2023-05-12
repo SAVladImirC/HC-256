@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HC-256", "HC-256\HC-256.csproj", "{F1811A6E-E95B-4ABA-A6AE-8D5F622E598A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1811A6E-E95B-4ABA-A6AE-8D5F622E598A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1811A6E-E95B-4ABA-A6AE-8D5F622E598A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1811A6E-E95B-4ABA-A6AE-8D5F622E598A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1811A6E-E95B-4ABA-A6AE-8D5F622E598A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997D6720-80B1-4F0D-84D6-B08C19B38B60}
+	EndGlobalSection
+EndGlobal
